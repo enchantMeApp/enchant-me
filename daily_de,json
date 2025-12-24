@@ -1,0 +1,114 @@
+{
+  "MajorArcana": [
+    {
+      "name": "Der Narr",
+      "number": 0,
+      "interpretation": "Neuanfänge, Optimismus, Vertrauen ins Leben. Heute ist ein Tag, um Abenteuer zu wagen und einen Sprung ins Unbekannte zu machen. Sei offen für unerwartete Möglichkeiten."
+    },
+    {
+      "name": "Der Magier",
+      "number": 1,
+      "interpretation": "Fähigkeiten, Einfallsreichtum, Manifestation. Konzentriere deine Energie darauf, was du heute erschaffen kannst. Nutze deine Talente, um Herausforderungen zu meistern."
+    },
+    {
+      "name": "Die Hohepriesterin",
+      "number": 2,
+      "interpretation": "Intuition, Weisheit, verborgenes Wissen. Achte auf deine innere Stimme. Meditation oder ruhige Reflexion kann wichtige Einsichten bringen."
+    },
+    {
+      "name": "Die Herrscherin",
+      "number": 3,
+      "interpretation": "Fülle, Kreativität, Fürsorge. Heute ideal für kreative Projekte oder den Kontakt zur Natur. Sorge für dich selbst und andere."
+    },
+    {
+      "name": "Der Herrscher",
+      "number": 4,
+      "interpretation": "Stabilität, Autorität, Struktur. Konzentriere dich auf Planung und Organisation. Übernimm Verantwortung für deine Ziele und Entscheidungen."
+    },
+    {
+      "name": "Der Hierophant",
+      "number": 5,
+      "interpretation": "Tradition, Führung, Lernen. Suche Weisheit bei vertrauenswürdigen Mentoren oder etablierten Praktiken. Heute könnten Lern- oder Lehrgelegenheiten entstehen."
+    },
+    {
+      "name": "Die Liebenden",
+      "number": 6,
+      "interpretation": "Beziehungen, Entscheidungen, Harmonie. Achte auf deine Verbindungen und treffe Entscheidungen, die deinen Werten entsprechen. Emotionale Balance ist heute entscheidend."
+    },
+    {
+      "name": "Der Wagen",
+      "number": 7,
+      "interpretation": "Entschlossenheit, Fokus, Kontrolle. Richte deine Energie auf ein klares Ziel. Überwinde Hindernisse mit Disziplin und Selbstvertrauen."
+    },
+    {
+      "name": "Die Kraft",
+      "number": 8,
+      "interpretation": "Mut, Geduld, innere Stärke. Begegne Herausforderungen mit Ruhe und Mitgefühl. Heute ist es wichtig, Ängste zu zähmen und sanfte Kontrolle auszuüben."
+    },
+    {
+      "name": "Der Eremit",
+      "number": 9,
+      "interpretation": "Innenschau, Einsamkeit, Führung. Nimm dir Zeit, über deinen Weg nachzudenken. Suche Klarheit in dir selbst, nicht außen."
+    },
+    {
+      "name": "Glücksrad",
+      "number": 10,
+      "interpretation": "Veränderung, Zyklen, Schicksal. Das Leben kann unerwartete Ereignisse bringen. Sei flexibel und passe dich an, das Rad dreht sich zu deinen Gunsten."
+    },
+    {
+      "name": "Gerechtigkeit",
+      "number": 11,
+      "interpretation": "Fairness, Wahrheit, Balance. Konzentriere dich auf Entscheidungen und Verantwortung. Suche Harmonie in Konflikten und bedenke langfristige Konsequenzen."
+    },
+    {
+      "name": "Der Gehängte",
+      "number": 12,
+      "interpretation": "Pause, Hingabe, Perspektive. Lass Kontrolle los und betrachte die Dinge aus einem neuen Blickwinkel. Geduld bringt Einsicht."
+    },
+    {
+      "name": "Der Tod",
+      "number": 13,
+      "interpretation": "Transformation, Ende, Neubeginn. Nimm Veränderungen an und löse dich von dem, was dir nicht mehr dient. Heute ist ein Tag für einen Neuanfang."
+    },
+    {
+      "name": "Die Mäßigkeit",
+      "number": 14,
+      "interpretation": "Balance, Mäßigung, Harmonie. Suche Gleichgewicht in Handlungen und Gefühlen. Integriere Gegensätze und vermeide Extreme."
+    },
+    {
+      "name": "Der Teufel",
+      "number": 15,
+      "interpretation": "Bindung, Versuchung, Materialismus. Sei dir ungesunder Muster oder Obsessionen bewusst. Bewusstsein ermöglicht Befreiung."
+    },
+    {
+      "name": "Der Turm",
+      "number": 16,
+      "interpretation": "Umbruch, Offenbarung, Erwachen. Erwarte plötzliche Einsichten oder Störungen. Nutze sie als Katalysator für Wachstum und Klarheit."
+    },
+    {
+      "name": "Der Stern",
+      "number": 17,
+      "interpretation": "Hoffnung, Inspiration, Ruhe. Konzentriere dich auf deine Träume und lass positive Energie deine Handlungen leiten. Erneuerung und Vertrauen sind präsent."
+    },
+    {
+      "name": "Der Mond",
+      "number": 18,
+      "interpretation": "Illusion, Intuition, Unterbewusstsein. Vertraue deinen Instinkten und achte auf Träume oder verborgene Motive. Unsicherheit zu navigieren ist entscheidend."
+    },
+    {
+      "name": "Die Sonne",
+      "number": 19,
+      "interpretation": "Freude, Vitalität, Erfolg. Feiere Erfolge und teile Glück. Positive Energie fördert Wachstum und Klarheit."
+    },
+    {
+      "name": "Das Gericht",
+      "number": 20,
+      "interpretation": "Reflexion, Abrechnung, Erwachen. Beurteile deine Handlungen und Entscheidungen. Heute fördert Selbstreflexion und spirituelles Wachstum."
+    },
+    {
+      "name": "Die Welt",
+      "number": 21,
+      "interpretation": "Abschluss, Erfüllung, Erfolg. Erkenne deine Erfolge an und genieße das Gefühl von Ganzheit. Heute ergeben sich Möglichkeiten für Abschluss und Zufriedenheit."
+    }
+  ]
+}
