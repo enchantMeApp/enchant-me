@@ -1,0 +1,114 @@
+{
+  "MajorArcana": [
+    {
+      "name": "The Fool",
+      "number": 0,
+      "interpretation": "New beginnings, optimism, trust in life. Today is a day to embrace adventure and take a leap of faith. Remain open to unexpected opportunities."
+    },
+    {
+      "name": "The Magician",
+      "number": 1,
+      "interpretation": "Skill, resourcefulness, manifestation. Focus your energy on what you can create today. Use your talents to solve challenges."
+    },
+    {
+      "name": "The High Priestess",
+      "number": 2,
+      "interpretation": "Intuition, wisdom, hidden knowledge. Pay attention to your inner voice. Meditation or quiet reflection may reveal important insights."
+    },
+    {
+      "name": "The Empress",
+      "number": 3,
+      "interpretation": "Abundance, creativity, nurturing. Today is ideal for creative projects or connecting with nature. Nurture yourself and others."
+    },
+    {
+      "name": "The Emperor",
+      "number": 4,
+      "interpretation": "Stability, authority, structure. Focus on planning and organizing your tasks. Take responsibility for your goals and decisions."
+    },
+    {
+      "name": "The Hierophant",
+      "number": 5,
+      "interpretation": "Tradition, guidance, learning. Seek wisdom from trusted mentors or established practices. Today may bring opportunities to learn or teach."
+    },
+    {
+      "name": "The Lovers",
+      "number": 6,
+      "interpretation": "Relationships, choices, harmony. Pay attention to your connections and make choices aligned with your values. Emotional balance is key today."
+    },
+    {
+      "name": "The Chariot",
+      "number": 7,
+      "interpretation": "Determination, focus, control. Channel your energy toward a specific goal. Overcome obstacles with discipline and confidence."
+    },
+    {
+      "name": "Strength",
+      "number": 8,
+      "interpretation": "Courage, patience, inner strength. Face challenges with calm and compassion. This is a day to tame fears and assert gentle control."
+    },
+    {
+      "name": "The Hermit",
+      "number": 9,
+      "interpretation": "Introspection, solitude, guidance. Take time to reflect on your path. Seek clarity within rather than outside yourself."
+    },
+    {
+      "name": "Wheel of Fortune",
+      "number": 10,
+      "interpretation": "Change, cycles, destiny. Life may bring unexpected events. Adapt and stay flexible, the wheel is turning in your favor."
+    },
+    {
+      "name": "Justice",
+      "number": 11,
+      "interpretation": "Fairness, truth, balance. Focus on decisions and accountability. Seek harmony in conflicts and consider long-term consequences."
+    },
+    {
+      "name": "The Hanged Man",
+      "number": 12,
+      "interpretation": "Pause, surrender, perspective. Let go of control and see things from a new angle. Patience will bring insights."
+    },
+    {
+      "name": "Death",
+      "number": 13,
+      "interpretation": "Transformation, endings, renewal. Embrace change and release what no longer serves you. Today is a day for rebirth and new beginnings."
+    },
+    {
+      "name": "Temperance",
+      "number": 14,
+      "interpretation": "Balance, moderation, harmony. Seek equilibrium in actions and emotions. Integrate opposites and avoid extremes today."
+    },
+    {
+      "name": "The Devil",
+      "number": 15,
+      "interpretation": "Attachment, temptation, materialism. Be mindful of unhealthy patterns or obsessions. Awareness allows liberation."
+    },
+    {
+      "name": "The Tower",
+      "number": 16,
+      "interpretation": "Upheaval, revelation, awakening. Expect sudden insights or disruptions. Use them as a catalyst for growth and clarity."
+    },
+    {
+      "name": "The Star",
+      "number": 17,
+      "interpretation": "Hope, inspiration, serenity. Focus on your dreams and allow positivity to guide your actions. Renewal and faith are present today."
+    },
+    {
+      "name": "The Moon",
+      "number": 18,
+      "interpretation": "Illusion, intuition, subconscious. Trust your instincts and pay attention to dreams or hidden motives. Navigating uncertainty is key."
+    },
+    {
+      "name": "The Sun",
+      "number": 19,
+      "interpretation": "Joy, vitality, success. Celebrate achievements and share happiness. Positive energy encourages growth and clarity."
+    },
+    {
+      "name": "Judgement",
+      "number": 20,
+      "interpretation": "Reflection, reckoning, awakening. Assess your actions and decisions. Today encourages self-evaluation and spiritual growth."
+    },
+    {
+      "name": "The World",
+      "number": 21,
+      "interpretation": "Completion, fulfillment, achievement. Recognize successes and enjoy the sense of wholeness. Opportunities for closure and satisfaction are present."
+    }
+  ]
+}
