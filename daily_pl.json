@@ -1,0 +1,114 @@
+{
+  "MajorArcana": [
+    {
+      "name": "Głupiec",
+      "number": 0,
+      "interpretation": "Nowe początki, optymizm, zaufanie do życia. Dziś jest dzień, aby przyjąć przygodę i zrobić krok w nieznane. Pozostań otwarty na niespodziewane możliwości."
+    },
+    {
+      "name": "Mag",
+      "number": 1,
+      "interpretation": "Umiejętności, pomysłowość, manifestacja. Skoncentruj swoją energię na tym, co możesz stworzyć dzisiaj. Wykorzystaj swoje talenty do rozwiązywania wyzwań."
+    },
+    {
+      "name": "Kapłanka",
+      "number": 2,
+      "interpretation": "Intuicja, mądrość, ukryta wiedza. Zwróć uwagę na swój wewnętrzny głos. Medytacja lub chwila refleksji mogą ujawnić ważne wskazówki."
+    },
+    {
+      "name": "Cesarzowa",
+      "number": 3,
+      "interpretation": "Obfitość, kreatywność, troska. Dziś idealny dzień na projekty twórcze lub kontakt z naturą. Dbaj o siebie i innych."
+    },
+    {
+      "name": "Cesarz",
+      "number": 4,
+      "interpretation": "Stabilność, autorytet, struktura. Skoncentruj się na planowaniu i organizacji zadań. Weź odpowiedzialność za swoje cele i decyzje."
+    },
+    {
+      "name": "Kapłan",
+      "number": 5,
+      "interpretation": "Tradycja, przewodnictwo, nauka. Szukaj mądrości u zaufanych mentorów lub w ustalonych praktykach. Dziś mogą pojawić się okazje do nauki lub nauczania."
+    },
+    {
+      "name": "Kochankowie",
+      "number": 6,
+      "interpretation": "Relacje, wybory, harmonia. Zwróć uwagę na swoje więzi i podejmuj decyzje zgodne z własnymi wartościami. Równowaga emocjonalna jest dziś kluczowa."
+    },
+    {
+      "name": "Rydwan",
+      "number": 7,
+      "interpretation": "Determinacja, skupienie, kontrola. Skieruj swoją energię na konkretny cel. Pokonuj przeszkody z dyscypliną i pewnością siebie."
+    },
+    {
+      "name": "Siła",
+      "number": 8,
+      "interpretation": "Odwaga, cierpliwość, wewnętrzna siła. Staw czoła wyzwaniom z spokojem i współczuciem. Dziś jest czas, aby okiełznać lęki i działać z delikatną mocą."
+    },
+    {
+      "name": "Pustelnik",
+      "number": 9,
+      "interpretation": "Introspekcja, samotność, przewodnictwo. Poświęć czas na refleksję nad swoją drogą. Szukaj jasności w sobie, a nie na zewnątrz."
+    },
+    {
+      "name": "Koło Fortuny",
+      "number": 10,
+      "interpretation": "Zmiana, cykle, przeznaczenie. Życie może przynieść niespodziewane wydarzenia. Bądź elastyczny i dostosuj się, koło szczęścia obraca się na Twoją korzyść."
+    },
+    {
+      "name": "Sprawiedliwość",
+      "number": 11,
+      "interpretation": "Sprawiedliwość, prawda, równowaga. Skoncentruj się na decyzjach i odpowiedzialności. Szukaj harmonii w konfliktach i rozważ konsekwencje długoterminowe."
+    },
+    {
+      "name": "Wisielec",
+      "number": 12,
+      "interpretation": "Zawieszenie, poddanie się, nowa perspektywa. Puść kontrolę i zobacz sprawy z innego kąta. Cierpliwość przyniesie wgląd."
+    },
+    {
+      "name": "Śmierć",
+      "number": 13,
+      "interpretation": "Transformacja, zakończenia, odrodzenie. Przyjmij zmiany i uwolnij to, co Ci już nie służy. Dziś czas na nowy początek."
+    },
+    {
+      "name": "Umiarkowanie",
+      "number": 14,
+      "interpretation": "Równowaga, umiar, harmonia. Szukaj równowagi w działaniach i emocjach. Integruj przeciwieństwa i unikaj skrajności."
+    },
+    {
+      "name": "Diabeł",
+      "number": 15,
+      "interpretation": "Przywiązanie, pokusa, materializm. Bądź świadomy niezdrowych wzorców lub obsesji. Świadomość pozwala się uwolnić."
+    },
+    {
+      "name": "Wieża",
+      "number": 16,
+      "interpretation": "Wstrząs, objawienie, przebudzenie. Spodziewaj się nagłych wglądów lub zakłóceń. Wykorzystaj je jako katalizator wzrostu i jasności."
+    },
+    {
+      "name": "Gwiazda",
+      "number": 17,
+      "interpretation": "Nadzieja, inspiracja, spokój. Skoncentruj się na swoich marzeniach i pozwól, by pozytywna energia kierowała Twoimi działaniami. Odnowa i wiara są obecne."
+    },
+    {
+      "name": "Księżyc",
+      "number": 18,
+      "interpretation": "Iluzje, intuicja, podświadomość. Zaufaj swoim instynktom i zwracaj uwagę na sny lub ukryte motywy. Kluczem jest poruszanie się w niepewności."
+    },
+    {
+      "name": "Słońce",
+      "number": 19,
+      "interpretation": "Radość, witalność, sukces. Świętuj osiągnięcia i dziel się szczęściem. Pozytywna energia sprzyja wzrostowi i jasności umysłu."
+    },
+    {
+      "name": "Sąd",
+      "number": 20,
+      "interpretation": "Refleksja, ocena, przebudzenie. Oceń swoje działania i decyzje. Dziś sprzyja samorefleksji i duchowemu rozwojowi."
+    },
+    {
+      "name": "Świat",
+      "number": 21,
+      "interpretation": "Zakończenie, spełnienie, osiągnięcie. Doceniaj swoje sukcesy i ciesz się poczuciem całości. Dziś pojawiają się możliwości zamknięcia spraw i satysfakcji."
+    }
+  ]
+}
