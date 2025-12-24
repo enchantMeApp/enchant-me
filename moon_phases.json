@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Moon phase meanings and advice for Enchant Me!",
+    "lunar_cycle_days": 29.53
+  },
+
+  "phases": [
+    {
+      "id": "new_moon",
+      "age_range": [0.0, 1.8],
+      "names": {
+        "en": "New Moon",
+        "pl": "Nów",
+        "de": "Neumond"
+      },
+      "content": {
+        "en": {
+          "meaning": "The New Moon marks the beginning of the lunar cycle. Energy is inward, quiet, and full of potential. This is a time of endings and fresh starts, where intentions are planted beneath the surface.",
+          "advice": "Focus on setting intentions, journaling, and reflection. Avoid rushing into action. Rest, plan, and visualize what you want to grow in the coming weeks."
+        },
+        "pl": {
+          "meaning": "Nów rozpoczyna nowy cykl księżycowy. Energia jest skierowana do wewnątrz, spokojna i pełna potencjału. To czas zakończeń i nowych początków.",
+          "advice": "Skup się na intencjach, refleksji i planowaniu. To dobry moment na odpoczynek i pracę wewnętrzną, a nie na działanie."
+        },
+        "de": {
+          "meaning": "Der Neumond markiert den Beginn des Mondzyklus. Die Energie ist nach innen gerichtet, ruhig und voller Möglichkeiten. Es ist eine Zeit für Neubeginn und innere Ausrichtung.",
+          "advice": "Setze Absichten, reflektiere und plane. Vermeide überstürztes Handeln und gönne dir Ruhe."
+        }
+      }
+    },
+
+    {
+      "id": "waxing_crescent",
+      "age_range": [1.8, 5.5],
+      "names": {
+        "en": "Waxing Crescent",
+        "pl": "Rosnący sierp",
+        "de": "Zunehmende Sichel"
+      },
+      "content": {
+        "en": {
+          "meaning": "This phase represents growth, hope, and early movement. The intentions set during the New Moon begin to take shape.",
+          "advice": "Take small steps toward your goals. Stay open to learning and trust the process, even if results are not yet visible."
+        },
+        "pl": {
+          "meaning": "To faza wzrostu, nadziei i pierwszych działań. Intencje zaczynają się materializować.",
+          "advice": "Podejmuj drobne kroki w stronę celu. Bądź cierpliwy i elastyczny."
+        },
+        "de": {
+          "meaning": "Diese Phase steht für Wachstum und erste Fortschritte. Ideen beginnen sich zu formen.",
+          "advice": "Unternimm kleine Schritte und bleibe offen für Anpassungen."
+        }
+      }
+    },
+
+    {
+      "id": "first_quarter",
+      "age_range": [5.5, 9.2],
+      "names": {
+        "en": "First Quarter",
+        "pl": "Pierwsza kwadra",
+        "de": "Erstes Viertel"
+      },
+      "content": {
+        "en": {
+          "meaning": "The First Quarter brings action and challenge. Obstacles may appear, testing commitment.",
+          "advice": "Make decisions and take action. Push through resistance and trust your determination."
+        },
+        "pl": {
+          "meaning": "Pierwsza kwadra to czas działania i wyzwań. Mogą pojawić się przeszkody.",
+          "advice": "Podejmuj decyzje i działaj mimo trudności."
+        },
+        "de": {
+          "meaning": "Das erste Viertel steht für Entscheidungen und Herausforderungen.",
+          "advice": "Handle entschlossen und überwinde innere Zweifel."
+        }
+      }
+    },
+
+    {
+      "id": "waxing_gibbous",
+      "age_range": [9.2, 13.8],
+      "names": {
+        "en": "Waxing Gibbous",
+        "pl": "Rosnący garb",
+        "de": "Zunehmender Mond"
+      },
+      "content": {
+        "en": {
+          "meaning": "Refinement and preparation dominate this phase. Momentum builds.",
+          "advice": "Fine-tune plans and stay focused. Adjust what isn’t working."
+        },
+        "pl": {
+          "meaning": "To czas dopracowywania i przygotowań.",
+          "advice": "Popraw szczegóły i zachowaj koncentrację."
+        },
+        "de": {
+          "meaning": "Diese Phase dient der Vorbereitung und Verfeinerung.",
+          "advice": "Optimiere Pläne und bleibe konzentriert."
+        }
+      }
+    },
+
+    {
+      "id": "full_moon",
+      "age_range": [13.8, 16.6],
+      "names": {
+        "en": "Full Moon",
+        "pl": "Pełnia",
+        "de": "Vollmond"
+      },
+      "content": {
+        "en": {
+          "meaning": "The Full Moon represents culmination, clarity, and heightened emotions.",
+          "advice": "Celebrate achievements and release what no longer serves you."
+        },
+        "pl": {
+          "meaning": "Pełnia to kulminacja i intensywne emocje.",
+          "advice": "Doceniaj efekty pracy i pozbywaj się zbędnych obciążeń."
+        },
+        "de": {
+          "meaning": "Der Vollmond steht für Höhepunkt und Erkenntnis.",
+          "advice": "Feiere Erfolge und lasse los."
+        }
+      }
+    },
+
+    {
+      "id": "waning_gibbous",
+      "age_range": [16.6, 20.1],
+      "names": {
+        "en": "Waning Gibbous",
+        "pl": "Ubywający garb",
+        "de": "Abnehmender Mond"
+      },
+      "content": {
+        "en": {
+          "meaning": "Reflection and gratitude define this phase.",
+          "advice": "Share wisdom and review lessons learned."
+        },
+        "pl": {
+          "meaning": "To czas refleksji i wdzięczności.",
+          "advice": "Podsumuj doświadczenia i wyciągnij wnioski."
+        },
+        "de": {
+          "meaning": "Diese Phase lädt zur Reflexion ein.",
+          "advice": "Ziehe Lehren aus Erlebnissen."
+        }
+      }
+    },
+
+    {
+      "id": "last_quarter",
+      "age_range": [20.1, 23.9],
+      "names": {
+        "en": "Last Quarter",
+        "pl": "Trzecia kwadra",
+        "de": "Letztes Viertel"
+      },
+      "content": {
+        "en": {
+          "meaning": "Release and realignment are key.",
+          "advice": "Let go of habits or beliefs that hold you back."
+        },
+        "pl": {
+          "meaning": "Czas odpuszczania i porządków.",
+          "advice": "Pozbądź się tego, co cię ogranicza."
+        },
+        "de": {
+          "meaning": "Diese Phase steht für Loslassen.",
+          "advice": "Trenne dich von hinderlichen Mustern."
+        }
+      }
+    },
+
+    {
+      "id": "waning_crescent",
+      "age_range": [23.9, 29.53],
+      "names": {
+        "en": "Waning Crescent",
+        "pl": "Ubywający sierp",
+        "de": "Abnehmende Sichel"
+      },
+      "content": {
+        "en": {
+          "meaning": "Rest, surrender, and closure define this phase.",
+          "advice": "Slow down, forgive, and prepare for renewal."
+        },
+        "pl": {
+          "meaning": "To czas odpoczynku i zamykania cyklu.",
+          "advice": "Zwolnij tempo i przygotuj się na nowy początek."
+        },
+        "de": {
+          "meaning": "Diese Phase dient der Regeneration.",
+          "advice": "Ruhen, vergeben und loslassen."
+        }
+      }
+    }
+  ]
+}
